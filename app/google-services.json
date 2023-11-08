@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "844011871242",
+    "firebase_url": "https://c02-tracker-default-rtdb.firebaseio.com",
+    "project_id": "c02-tracker",
+    "storage_bucket": "c02-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844011871242:android:9fc1e948825a9bc945d3f3",
+        "android_client_info": {
+          "package_name": "com.shreyd.co2tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844011871242-fupos98srllicov7e2tttuk46l44m2j9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shreyd.co2tracker",
+            "certificate_hash": "c6ad48871eb8d634bdf48dfc318cd2fcf5512f25"
+          }
+        },
+        {
+          "client_id": "844011871242-kjqmkcebmi010est1ijtqm3jfhoklb2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ZF_nwva-oZ4cbK5qphWT4Ltw2q53CK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844011871242-kjqmkcebmi010est1ijtqm3jfhoklb2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
